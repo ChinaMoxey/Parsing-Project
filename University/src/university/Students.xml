@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Students>
+  <student>
+    <firstname>Justin</firstname>
+    <lastname>Law</lastname>
+    <age>18</age>
+    <gender>Male</gender>
+    <ssn>123-44-8888</ssn>
+    <major>Computer Science</major>
+    <startdate>August 26,2016</startdate>
+    <expectedGraduation>June 2020</expectedGraduation>
+  </student>
+  
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Jude</lastname>
+    <age>20</age>
+    <gender>Male</gender>
+    <ssn>048-77-9778</ssn>
+    <major>English</major>
+    <startdate>January 26,2016</startdate>
+    <expectedGraduation>December 2019</expectedGraduation>  
+  </student>
+  
+  <student>
+    <firstname>Lily</firstname>
+    <lastname>Mona</lastname>
+    <age>22</age>
+    <gender>Femlae</gender>
+    <ssn>125-77-3901</ssn>
+    <major>History</major>
+    <startdate>August 26,2014</startdate>
+    <expectedGraduation>December 2018</expectedGraduation>
+  </student>
+  
+  <student>
+    <firstname>Rita</firstname>
+    <lastname>Ray</lastname>
+    <age>19</age>
+    <gender>Female</gender>
+    <ssn>123-456-8883</ssn>
+    <major>Nursing</major>
+    <startdate>Ausgust 26,2016</startdate>
+    <expectedGraduation>December 2020</expectedGraduation>
+  </student>
+  
+  <student>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <age>23</age>
+    <gender>Male</gender>
+    <ssn>345-99-5070</ssn>
+    <major>Pyschology</major>
+    <startdate>August 26,2015</startdate>
+    <expectedGraduation>June 2020</expectedGraduation>
+  </student>
+  
+  <student>
+    <firstname>Jane</firstname>
+    <lastname>Doey</lastname>
+    <age>28</age>
+    <gender>Female</gender>
+    <ssn>345-90-8345</ssn>
+    <major>Chemistry</major>
+    <startdate>Ausgust 26 2016</startdate>
+    <expectedGraduation>December 2019</expectedGraduation>
+  </student>
+  
+  <student>
+    <firstname>William</firstname>
+    <lastname>Ray</lastname>
+    <age>24</age>
+    <gender>Male</gender>
+    <ssn>123-56-9450</ssn>
+    <major>Biology</major>
+    <startdate>Ausgust 26 2016</startdate>
+    <expectedGraduation>June 2020</expectedGraduation>
+  </student>
+</Students>
